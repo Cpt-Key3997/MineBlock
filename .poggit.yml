@@ -1,0 +1,123 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Cpt-Key3997/MineBlock
+branches:
+- master
+projects:
+  Plugins.-DropCount:
+    path: Plugins/-DropCount/
+  Plugins.AntiExplosion:
+    path: Plugins/AntiExplosion/
+  Plugins.AntiExplosionBreak:
+    path: Plugins/AntiExplosionBreak/
+  Plugins.AntiPvpCheat:
+    path: Plugins/AntiPvpCheat/
+  Plugins.ArrowShot:
+    path: Plugins/ArrowShot/
+  Plugins.BadName:
+    path: Plugins/BadName/
+  Plugins.BanCraft:
+    path: Plugins/BanCraft/
+  Plugins.BlockPet:
+    path: Plugins/BlockPet/
+  Plugins.ChatMute:
+    path: Plugins/ChatMute/
+  Plugins.ChatSwitch:
+    path: Plugins/ChatSwitch/
+  Plugins.Check:
+    path: Plugins/Check/
+  Plugins.ChestView:
+    path: Plugins/ChestView/
+  Plugins.ClearEntities:
+    path: Plugins/ClearEntities/
+  Plugins.CocoaBean:
+    path: Plugins/CocoaBean/
+  Plugins.CommandBlock:
+    path: Plugins/CommandBlock/
+  Plugins.CommandDebug:
+    path: Plugins/CommandDebug/
+  Plugins.CommandItem:
+    path: Plugins/CommandItem/
+  Plugins.CommandLog:
+    path: Plugins/CommandLog/
+  Plugins.CountdownServerStop:
+    path: Plugins/CountdownServerStop/
+  Plugins.CutMap:
+    path: Plugins/CutMap/
+  Plugins.DamageBlock:
+    path: Plugins/DamageBlock/
+  Plugins.DeathPointSpawnPoint:
+    path: Plugins/DeathPointSpawnPoint/
+  Plugins.DeletePlayer:
+    path: Plugins/DeletePlayer/
+  Plugins.Delivery:
+    path: Plugins/Delivery/
+  Plugins.FastArmor:
+    path: Plugins/FastArmor/
+  Plugins.FastBurn:
+    path: Plugins/FastBurn/
+  Plugins.FirstJoin:
+    path: Plugins/FirstJoin/
+  Plugins.Fishing:
+    path: Plugins/Fishing/
+  Plugins.Grenade:
+    path: Plugins/Grenade/
+  Plugins.Gun:
+    path: Plugins/Gun/
+  Plugins.HealBed:
+    path: Plugins/HealBed/
+  Plugins.Inventory:
+    path: Plugins/Inventory/
+  Plugins.ItemCase:
+    path: Plugins/ItemCase/
+  Plugins.ItemPet:
+    path: Plugins/ItemPet/
+  Plugins.JoinCount:
+    path: Plugins/JoinCount/
+  Plugins.LocalChat:
+    path: Plugins/LocalChat/
+  Plugins.Login:
+    path: Plugins/Login/
+  Plugins.MaxHealth:
+    path: Plugins/MaxHealth/
+  Plugins.MineBlock:
+    path: Plugins/MineBlock/
+  Plugins.MineFarm:
+    path: Plugins/MineFarm/
+  Plugins.MobPet:
+    path: Plugins/MobPet/
+  Plugins.Money:
+    path: Plugins/Money/
+  Plugins.MoveCommand:
+    path: Plugins/MoveCommand/
+  Plugins.NickName:
+    path: Plugins/NickName/
+  Plugins.PlayTime:
+    path: Plugins/PlayTime/
+  Plugins.Point:
+    path: Plugins/Point/
+  Plugins.ProtectArea:
+    path: Plugins/ProtectArea/
+  Plugins.ProtectBlock:
+    path: Plugins/ProtectBlock/
+  Plugins.Reboot:
+    path: Plugins/Reboot/
+  Plugins.Shop:
+    path: Plugins/Shop/
+  Plugins.ShortCut:
+    path: Plugins/ShortCut/
+  Plugins.SortInventory:
+    path: Plugins/SortInventory/
+  Plugins.SubInventory:
+    path: Plugins/SubInventory/
+  Plugins.TeleportView:
+    path: Plugins/TeleportView/
+  Plugins.TpsLog:
+    path: Plugins/TpsLog/
+  Plugins.ViewLocation:
+    path: Plugins/ViewLocation/
+  Plugins.WorldGenerator:
+    path: Plugins/WorldGenerator/
+  Plugins.WorldInventory:
+    path: Plugins/WorldInventory/
+  Plugins.WorldManager:
+    path: Plugins/WorldManager/
+...
